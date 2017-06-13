@@ -2,7 +2,7 @@
 This skill returns one fact about whiskey at a time. All facts are public knowledge and are available on the world wide web. Disclaimer: This skill is intended for those at least of age 21 and up.
 
 <h3>Store Marketplace Snapshot</h3>
-![alt tag](https://github.com/CodingRaven/alexa-whiskey-geek-skill/blob/master/whiskey_geek.PNG)
+<img src="https://github.com/EdmaryRosado/alexa-whiskey-geek-skill/blob/master/whiskey_geek.PNG">
 
 <h3>Sample Utterances</h3>
 <ul>
